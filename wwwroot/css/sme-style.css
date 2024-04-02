@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,200;0,300;0,400;1,400&display=swap');
+
+body {
+    font-family: 'Prompt', sans-serif;
+}
+
+.navbar-menu .navbar-nav .nav-link {
+    font-size: 0.9375rem;
+    font-family: 'Prompt', sans-serif;
+}
+
+.navbar-menu .navbar-nav .nav-sm .nav-link {
+    font-family: 'Prompt', sans-serif;
+}
+
+:is(.h1,
+    .h2,
+    .h3,
+    .h4,
+    .h5,
+    .h6,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6, .text-muted, label, code) {
+    /* color: var(--vz-heading-color); */
+    font-family: 'Prompt', sans-serif;
+}
+
+.chat-list>li a {
+    display: block;
+    padding: 7px 24px;
+    color: var(--vz-body-color);
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+}
+
+.contact-list li {
+    cursor: pointer;
+    padding: 8px 24px;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    color: var(--vz-body-color);
+    font-family: 'Prompt', sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+}

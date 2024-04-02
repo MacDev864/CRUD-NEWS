@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="/lib/vendors/bundle.css" />
+    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="/lib/vendors/fontawesome-free-5.15.2-web/css/all.min.css">
+
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="News" asp-action="Index">@ViewData["project_name"]</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            <div class="card card-shadow">
+                <div class="card-header ">
+                    <h4>
+                        @ViewData["page_name"]
+
+                    </h4>
+
+                </div>
+               </div>
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2567 - Phirapat Intarueangsorn
+        </div>
+    </footer>
+    <script type="text/javascript" src="/lib/vendors/select2/js/select2.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <script type="text/javascript" src="/lib/vendors/dataTable/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/datatables-buttons/js/dataTables.buttons.min.js"></script>
+
+    <script type="text/javascript" src="/lib/vendors/dataTable/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/jszip/jszip.min.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="/lib/vendors/dataTable/datatables-buttons/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="~/lib/vendors/dataTable/pdfmake/pdfmake.min.js"></script>
+    <script type="text/javascript" src="~/lib/vendors/dataTable/pdfmake/vfs_fonts.js"></script>
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

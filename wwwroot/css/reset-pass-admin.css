@@ -1,0 +1,34 @@
+#reset-pass-message {
+    display:none;
+    background: #ffffff;
+    color: #000;
+    position: relative;
+    padding: 10px;
+    margin-top: 10px;
+    border: 0.5px solid rgba(0,0,0,.2);
+    border-radius: 15px;
+}
+
+#reset-pass-message p {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+/* Add a green text color and a checkmark when the requirements are right */
+.reset-pass-valid {
+    color: green;
+}
+
+.reset-pass-valid:before {
+    position: relative;
+    content: "\2713  ";
+}
+
+/* Add a red text color and an "x" icon when the requirements are wrong */
+.reset-pass-invalid {
+    
+}
+
+.reset-pass-invalid:before {
+    position: relative;
+    content: "\2716  ";
+}

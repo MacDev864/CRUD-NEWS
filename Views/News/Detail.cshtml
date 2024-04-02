@@ -1,0 +1,91 @@
+﻿@model NewsModel
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card card-shadow">
+                <div class="card-body">
+                    <div class="blog-details-area pt-100 pb-120">
+                        <div class="container">
+                            <div class="row justify-content-center gx-xl-5">
+                                <div class="col-lg-8">
+                                    <div class="blog-description mb-40">
+                                        <article class="item-single">
+                                            <div class="image radius-md">
+
+                                                <!-- <div class="lazy-container ratio ratio-2-3"> -->
+                                                <div class="ratio ratio-2-3">
+                                                    <input type="hidden" id="id" name="id" value="@Model.id">
+
+                                                    <!-- Use Razor syntax to generate the image URL -->
+                                                    <img class="lazyload" id="img" alt="Blog Image">
+
+                                                </div>
+
+                                            </div>
+                                            <div class="content">
+                                                <div class="small" id="time" ></div>
+                                                <h4 id="name"></h4>
+                                                <p id="description"></p>
+
+                                                <!-- Use Razor syntax to display the name property of the News model -->
+                                                <!-- Display other properties of the News model here if needed -->
+                                            </div>
+                                        </article>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card card-shadow">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between mb-3">
+                        
+                        <button type="button" class="btn btn-outline-danger btn-back" >
+                            <i class="fas fa-arrow mr-1"></i> ย้อนกลับ
+                        </button>
+                      
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function fetchByID(id) {
+        $.ajax({
+            url: '/api/news/' + id,
+            type: 'GET',
+            success: function (response) {
+                if (response.success) {
+                    let data = response.data
+                    $('#name').text(data.name)
+                    $('#description').text(data.description)
+                    $('#img').attr('src', data.img);
+                 
+                  
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error('Error: ', error);
+            }
+        });
+    }
+    $(document).ready(function () {
+        let id = $('#id').val();
+        fetchByID(id)
+        $('.btn-back').click(function () {
+            window.location.href = "/";
+        });
+
+    });
+</script>

@@ -1,0 +1,83 @@
+ /* `sm` applies to x-small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {}
+
+ /* `md` applies to small devices (landscape phones, less than 768px) */
+ @media (max-width: 767.98px) {
+     #header-navigation {
+        display: none !important;
+     }
+     .btn-binding-account {
+        display: none !important;
+     }
+ }
+
+ /* `lg` applies to medium devices (tablets, less than 992px) */
+ @media (max-width: 991.98px) {
+     .company-profile-name {
+         font-size: 17px;
+     }
+
+     .company-profile-lists {
+         display: block;
+     }
+
+     .company-profile-lists i {
+         min-width: 12px;
+     }
+
+     .company-profile-lists-footer {
+         text-align: left !important;
+     }
+
+     .d-cycle .img-flip {
+         width: 30px !important;
+     }
+
+     .card-effect .row .text-center div {
+         text-align: center !important;
+     }
+
+     .d-cycle {
+         border: 1.8px solid #1769ff;
+         width: 40px;
+         height: 40px;
+         border-radius: 50%;
+         display: inline-flex;
+         align-items: center;
+         justify-content: center;
+         text-align: center;
+         padding: 6px;
+     }
+
+     .card-effect .h5 {
+         margin-bottom: 0rem;
+     }
+
+     .timestamp-console .btn-timeStamp {
+         margin-left: 0 !important;
+         margin-top: 1rem !important;
+         width: 100% !important;
+         display: block !important;
+         text-align: center !important;
+     }
+
+     .timestamp-console .btn-section-timeStamp {
+         margin-left: 0 !important;
+         margin-top: 1rem !important;
+         width: 100% !important;
+         display: block !important;
+         text-align: center !important;
+     }
+
+     .timestamp-console .clock-digit-date {
+         width: 100% !important;
+         display: block !important;
+         text-align: center !important;
+     }
+ }
+
+ /* `xl` applies to large devices (desktops, less than 1200px) */
+ @media (max-width: 1199.98px) {}
+
+ /* `xxl` applies to x-large devices (large desktops, less than 1400px) */
+ @media (max-width: 1399.98px) {}

@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CRUD NEWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\views\\news\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:views\\news\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\wwwroot\\js-external\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:wwwroot\\js-external\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:controllers\\newsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\wwwroot\\lib\\vendors\\datatable\\jquery.datatables.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:wwwroot\\lib\\vendors\\datatable\\jquery.datatables.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\wwwroot\\lib\\vendors\\datatable\\jquery.datatables.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:wwwroot\\lib\\vendors\\datatable\\jquery.datatables.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|f:\\crud news\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFD2F487-C339-45A1-98E4-15ACD0331E85}|CRUD NEWS.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jquery.dataTables.min.js",
+              "DocumentMoniker": "F:\\CRUD NEWS\\wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.js",
+              "ToolTip": "F:\\CRUD NEWS\\wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.js",
+              "RelativeToolTip": "wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-01T13:00:02.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "F:\\CRUD NEWS\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "F:\\CRUD NEWS\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AQIAABkwAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T12:56:31.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "F:\\CRUD NEWS\\wwwroot\\js-external\\index.js",
+              "RelativeDocumentMoniker": "wwwroot\\js-external\\index.js",
+              "ToolTip": "F:\\CRUD NEWS\\wwwroot\\js-external\\index.js",
+              "RelativeToolTip": "wwwroot\\js-external\\index.js",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwIYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-01T09:19:29.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\CRUD NEWS\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Index.cshtml",
+              "ToolTip": "F:\\CRUD NEWS\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:14:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsApiController.cs",
+              "DocumentMoniker": "F:\\CRUD NEWS\\Controllers\\NewsApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsApiController.cs",
+              "ToolTip": "F:\\CRUD NEWS\\Controllers\\NewsApiController.cs",
+              "RelativeToolTip": "Controllers\\NewsApiController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAA7wLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:08:00.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jquery.dataTables.min.css",
+              "DocumentMoniker": "F:\\CRUD NEWS\\wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.css",
+              "ToolTip": "F:\\CRUD NEWS\\wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.css",
+              "RelativeToolTip": "wwwroot\\lib\\vendors\\dataTable\\jquery.dataTables.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T13:00:10.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\CRUD NEWS\\Views\\News\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Detail.cshtml",
+              "ToolTip": "F:\\CRUD NEWS\\Views\\News\\Detail.cshtml",
+              "RelativeToolTip": "Views\\News\\Detail.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:05:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\CRUD NEWS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\CRUD NEWS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:04:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "F:\\CRUD NEWS\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "F:\\CRUD NEWS\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:04:08.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
