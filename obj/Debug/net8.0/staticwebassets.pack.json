@@ -7433,6 +7433,1394 @@
       "PackagePath": "staticwebassets\\lib\\vendors\\wysiwyag\\site.css"
     },
     {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_animation.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_animation.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_base.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_button.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_button.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_color.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_color.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_cookiebar.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_cookiebar.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_form.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_form.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_lazyload.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_lazyload.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_mixin.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_mixin.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_nice-select.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_nice-select.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_preloader.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_preloader.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_reset.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_social-icon.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_social-icon.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_swiper-slider.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_swiper-slider.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_tab-navigation.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_tab-navigation.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_tap-top.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_tap-top.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_title.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_title.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_typography.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_utilities.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\base\\_variables.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\base\\_variables.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_about.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_about.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_blog.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_blog.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_brand.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_brand.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_choose.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_choose.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_counter.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_counter.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_features.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_features.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_footer.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_header.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_hero-banner.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_hero-banner.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_inner-pages.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_inner-pages.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_newsletter.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_newsletter.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_overview.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_overview.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_pricing.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_pricing.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_screenshot.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_screenshot.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_team.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_team.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_testimonial.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_video.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_video.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\layout\\_work.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\layout\\_work.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\pr\\css\\responsive.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\responsive.css.map",
+      "PackagePath": "staticwebassets\\pr\\css\\responsive.css.map"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\responsive.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\responsive.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\rtl.css",
+      "PackagePath": "staticwebassets\\pr\\css\\rtl.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\rtl.css.map",
+      "PackagePath": "staticwebassets\\pr\\css\\rtl.css.map"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\rtl.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\rtl.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\style.css",
+      "PackagePath": "staticwebassets\\pr\\css\\style.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\pr\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\style.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\style.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\theme-dark.css",
+      "PackagePath": "staticwebassets\\pr\\css\\theme-dark.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\theme-dark.css.map",
+      "PackagePath": "staticwebassets\\pr\\css\\theme-dark.css.map"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\theme-dark.scss",
+      "PackagePath": "staticwebassets\\pr\\css\\theme-dark.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\vendors\\animate.min.css",
+      "PackagePath": "staticwebassets\\pr\\css\\vendors\\animate.min.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\vendors\\aos.min.css",
+      "PackagePath": "staticwebassets\\pr\\css\\vendors\\aos.min.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\vendors\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\pr\\css\\vendors\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\vendors\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\pr\\css\\vendors\\magnific-popup.min.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\vendors\\nice-select.css",
+      "PackagePath": "staticwebassets\\pr\\css\\vendors\\nice-select.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\css\\vendors\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\pr\\css\\vendors\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.css.map",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.css.map"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.eot",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.eot"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.scss",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.scss"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.svg",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.svg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.ttf"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.woff",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.woff"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\font\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\font\\flaticon.woff2"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\flaticon\\license\\license.html",
+      "PackagePath": "staticwebassets\\pr\\fonts\\flaticon\\license\\license.html"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\pr\\fonts\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\404.svg",
+      "PackagePath": "staticwebassets\\pr\\images\\404.svg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\DL.png",
+      "PackagePath": "staticwebassets\\pr\\images\\DL.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\FT.png",
+      "PackagePath": "staticwebassets\\pr\\images\\FT.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-11x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-11x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-11z.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-11z.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-31.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-31.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-31x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-31x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-3a.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-3a.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-3ax.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-3ax.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-3z.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-3z.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-41.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-41.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\about-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\about-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\pr\\images\\app-store.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-4.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-5.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-6.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-7.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\avatar-8.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD2 - Copy.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD2.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD2.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD3 - Copy.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD4 - Copy.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD4 - Copy.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\AD4.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\AD4.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\asdas.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\asdas.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\d84eb999-560f-4104-8feb-d410462e3cbf.jpeg",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\d84eb999-560f-4104-8feb-d410462e3cbf.jpeg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-1111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-1111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-11111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-11111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-111111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-111111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-1111111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-1111111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-11111111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-11111111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-111111111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-111111111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-1111111111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-1111111111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-11111111111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-11111111111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-11111111111x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-11111111111x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-bg-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-bg-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-shape-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-shape-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-shape-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-shape-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-banner-shape-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-banner-shape-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-slider-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-slider-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-slider-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-slider-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-slider-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-slider-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\banner\\hero-slider-bg-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\banner\\hero-slider-bg-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\behance.png",
+      "PackagePath": "staticwebassets\\pr\\images\\behance.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-14.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-15.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-16.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-17.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-17.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-18.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-18.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-22.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-22.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-33.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-33.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-44.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-44.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\brand\\brand-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\brand\\brand-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-31.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-31.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-311.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-311.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-31x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-31x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-31z.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-31z.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\choose-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\choose-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\clippy-border.svg",
+      "PackagePath": "staticwebassets\\pr\\images\\clippy-border.svg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\coming-soon.svg",
+      "PackagePath": "staticwebassets\\pr\\images\\coming-soon.svg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\dribbble.png",
+      "PackagePath": "staticwebassets\\pr\\images\\dribbble.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\envato.png",
+      "PackagePath": "staticwebassets\\pr\\images\\envato.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\pr\\images\\facebook.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature-bg-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\feature-bg-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\feature\\function.png",
+      "PackagePath": "staticwebassets\\pr\\images\\feature\\function.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\footer-bg-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\footer-bg-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\google.png",
+      "PackagePath": "staticwebassets\\pr\\images\\google.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\hero-banner-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\hero-banner-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\hero-banner-21.png",
+      "PackagePath": "staticwebassets\\pr\\images\\hero-banner-21.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\income1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\income1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\income2.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\income2.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\income3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\income3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\income3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\income3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\income4-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\income4-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\income4.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\income4.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\pr\\images\\linkedin.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\login.svg",
+      "PackagePath": "staticwebassets\\pr\\images\\login.svg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\12.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\12.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\B1.svg",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\B1.svg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\LOGO_COMPANY_white-01.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\LOGO_COMPANY_white-01.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\fav-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\fav-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\fav-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\fav-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\fav-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\fav-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\fav-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\fav-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\fav-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\fav-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\fav-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\fav-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-3-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-3-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-5-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-5-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-6-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-6-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\logo\\logo-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\logo\\logo-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\map.png",
+      "PackagePath": "staticwebassets\\pr\\images\\map.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\messenger.png",
+      "PackagePath": "staticwebassets\\pr\\images\\messenger.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-21.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-21.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-31.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-31.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-44.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-44.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\newsletter-44x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\newsletter-44x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\overview-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\overview-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\page-title-bg-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\page-title-bg-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\pr\\images\\placeholder.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\play-store.png",
+      "PackagePath": "staticwebassets\\pr\\images\\play-store.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\price.png",
+      "PackagePath": "staticwebassets\\pr\\images\\price.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\printerest.png",
+      "PackagePath": "staticwebassets\\pr\\images\\printerest.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\rate-star-lg.png",
+      "PackagePath": "staticwebassets\\pr\\images\\rate-star-lg.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\rate-star-md.png",
+      "PackagePath": "staticwebassets\\pr\\images\\rate-star-md.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\rate-star.png",
+      "PackagePath": "staticwebassets\\pr\\images\\rate-star.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\saraly_01.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\saraly_01.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\a.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\a.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\a1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\a1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\b.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\b.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\c.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\c.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\d.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\d.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\e.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\e.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-10.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-10.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-12.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-12.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-13.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-13.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-14.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-14.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-15.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-15.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-16.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-16.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-17.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-17.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-18.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-18.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-19.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-19.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-20.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-20.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-7.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-7.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-8.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-8.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-9.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-9.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-lg-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-lg-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-lg-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-lg-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\screenshot\\screenshot-lg-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\screenshot\\screenshot-lg-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\dot-shape.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\dot-shape.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\fancy-shape.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\fancy-shape.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\footer-shape.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\footer-shape.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\overview-shape.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\overview-shape.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\pricing-shape.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\pricing-shape.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-10.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-10.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-11.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-11.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-1111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-1111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-11111.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-11111.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-11111x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-11111x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-12.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-12.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-13.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-13.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-22.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-22.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-4.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-4.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-44.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-44.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-5.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-5.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-55.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-55.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-555.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-555.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-555x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-555x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-6.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-6.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-66.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-66.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-666.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-666.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-666x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-666x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-66x.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-66x.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-7.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-7.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-8.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-8.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\shape-9.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\shape-9.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\team-shape.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\team-shape.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\testimonial-shape-1.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\testimonial-shape-1.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\testimonial-shape-2.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\testimonial-shape-2.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\shape\\testimonial-shape-3.png",
+      "PackagePath": "staticwebassets\\pr\\images\\shape\\testimonial-shape-3.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\skype.png",
+      "PackagePath": "staticwebassets\\pr\\images\\skype.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\slack.png",
+      "PackagePath": "staticwebassets\\pr\\images\\slack.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\table-price-buy.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\table-price-buy.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\table-price-buy.png",
+      "PackagePath": "staticwebassets\\pr\\images\\table-price-buy.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\table-price-monthly.png",
+      "PackagePath": "staticwebassets\\pr\\images\\table-price-monthly.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\team\\team-4.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\telegram.png",
+      "PackagePath": "staticwebassets\\pr\\images\\telegram.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\testimonial-bg-1.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\testimonial-bg-1.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\testimonial-bg-2.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\testimonial-bg-2.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\pr\\images\\twitter.png"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\images\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\pr\\images\\video-bg.jpg"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\rtl-script.js",
+      "PackagePath": "staticwebassets\\pr\\js\\rtl-script.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\script.js",
+      "PackagePath": "staticwebassets\\pr\\js\\script.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\aos.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\aos.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\lazysizes.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\lazysizes.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "F:\\CRUD news\\wwwroot\\pr\\js\\vendors\\tweenMax.min.js",
+      "PackagePath": "staticwebassets\\pr\\js\\vendors\\tweenMax.min.js"
+    },
+    {
       "Id": "F:\\CRUD news\\wwwroot\\uploads\\about-1.png",
       "PackagePath": "staticwebassets\\uploads\\about-1.png"
     },

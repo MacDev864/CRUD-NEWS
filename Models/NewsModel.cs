@@ -18,7 +18,10 @@ namespace CRUD_NEWS.Models
 
         [Column(TypeName = "datetime2")]
         public DateTime created_at { get; set; }
-        public DateTime updated_at { get; private set; }   
+        [Column(TypeName = "datetime2")]
+
+        public DateTime updated_at { get; set; }
+
         public bool is_deleted { get; set; } = false;
     }
 }

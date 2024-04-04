@@ -25,10 +25,6 @@ namespace CRUD_NEWS.Controllers
             this.dbContext = dbContext;
           
         }
-    
-
-
-     
         [HttpGet]
         [Route("/api/news/all")]
         public async Task<IActionResult> NewsList()
@@ -73,7 +69,7 @@ namespace CRUD_NEWS.Controllers
 
                 // Set the 'is_deleted' flag to false
                 news.is_deleted = false;
-
+                
                 // Validate the incoming model
                 if (!ModelState.IsValid)
                 {
@@ -99,6 +95,7 @@ namespace CRUD_NEWS.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error occurred while creating a news item.");
             }
         }
+
         [HttpPost]
         [Route("/api/news/update")]
         public async Task<IActionResult> Update([FromBody] NewsModel news)
@@ -112,9 +109,7 @@ namespace CRUD_NEWS.Controllers
                     return NotFound(); // Return a 404 Not Found response if the news item doesn't exist
                 }
 
-                // Update the existing news item with the data from the request
-
-
+                news.updated_at = DateTime.Now;Console.WriteLine(news.updated_at);
                 dbContext.News.Update(existingNews);
                 await dbContext.SaveChangesAsync();
 
@@ -126,6 +121,7 @@ namespace CRUD_NEWS.Controllers
                 return StatusCode(500, new { success = false, message = "An error occurred while updating the news item" });
             }
         }
+
         [HttpPost]
         [Route("/api/news/delete")]
         public async Task<IActionResult> Delete([FromBody] NewsModel news)

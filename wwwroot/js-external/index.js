@@ -126,6 +126,7 @@ function fetchByID(id, type) {
                     window.location.href = "/News/Detail/" + id;
                 }
                 if (type == "edit") {
+                    $('#id').val(response.data.id)
                     $('#name').val(response.data.name)
                     $('#description').val(response.data.description)
                     $('#modal-01').modal('show')
@@ -288,9 +289,9 @@ $(document).ready(function () {
             if (frmStatus == "create") {
                 url = '/create';
                 type = 'post';
-                console.log(frmValue)
                create(url, type, frmValue);
             } else if (frmStatus == "edit") {
+
                 url += '/update';
                 type = 'post';
                 update(url, type, frmValue)
