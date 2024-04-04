@@ -68,9 +68,10 @@
             success: function (response) {
                 if (response.success) {
                     let data = response.data
+                    var fileName = extractFileNameFromPath(data.img);
                     $('#name').text(data.name)
                     $('#description').text(data.description)
-                    $('#img').attr('src', data.img);
+                    $('#img').attr('src', "/uploads/" + fileName);
                  
                   
                 }
@@ -79,6 +80,10 @@
                 console.error('Error: ', error);
             }
         });
+    }
+    function extractFileNameFromPath(filePath) {
+        // Extracting the file name from the path
+        return filePath.split('\\').pop().split('/').pop();
     }
     $(document).ready(function () {
         let id = $('#id').val();

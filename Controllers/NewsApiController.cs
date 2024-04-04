@@ -11,6 +11,7 @@ using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using Microsoft.AspNetCore.Http;
 
 namespace CRUD_NEWS.Controllers
 {
@@ -100,8 +101,7 @@ namespace CRUD_NEWS.Controllers
         }
 
         [HttpPost]
-        [Route("/api/news/update")]
-        public async Task<IActionResult> Update([FromBody] NewsModel news)
+        public async Task<IActionResult> Update([FromForm] NewsModel news, IFormFile imgFile)
         {
             try
             {
@@ -115,14 +115,14 @@ namespace CRUD_NEWS.Controllers
                 // Update the existing news item with the data from the request
                 existingNews.name = news.name;
                 existingNews.description = news.description;
-                existingNews.img = string.IsNullOrEmpty(news.img) ? "/uploads/about-2.png" : news.img;
+
 
                 dbContext.News.Update(existingNews);
                 await dbContext.SaveChangesAsync();
 
                 return Ok(new { success = true, message = "News item updated successfully", data = existingNews });
             }
-            catch (Exception )
+            catch (Exception)
             {
                 // Log the exception or handle it in an appropriate way
                 return StatusCode(500, new { success = false, message = "An error occurred while updating the news item" });
@@ -169,7 +169,7 @@ namespace CRUD_NEWS.Controllers
             if (news.img == null || news.img == "")
             {
 
-                news.img = "/uploads/about-2.png";
+                news.img = "/about-2.png";
             }
          
 

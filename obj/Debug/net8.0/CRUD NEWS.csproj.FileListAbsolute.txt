@@ -256,3 +256,4 @@ F:\CRUD NEWS\bin\Debug\net8.0\Microsoft.OpenApi.dll
 F:\CRUD NEWS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\CRUD NEWS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\CRUD NEWS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CRUD news\obj\Debug\net8.0\CRUD NEWS.sourcelink.json
