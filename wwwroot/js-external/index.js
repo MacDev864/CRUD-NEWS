@@ -264,6 +264,14 @@ $(document).ready(function () {
     $('.btn-add').click(function () {
         eventAdd();
     });
+    $('.modal-btn').click(function () {
+        let dismiss = $(this).data("dismiss");
+        if (dismiss == "modal") {
+            $("#modal-01").modal("hide");
+            window.location.href = "/";
+        }
+    });
+  
     // --------------------------------------------------
     //  submit
     // --------------------------------------------------
@@ -272,22 +280,22 @@ $(document).ready(function () {
 
         let frmStatus = $('#frm-modal-1').data('frmStatus');
         let frmValue = getFormValue();
-        let url = '';
+        let url = '/api/news';
         let type = '';
 
         if (this.checkValidity() != false) {
 
             if (frmStatus == "create") {
-                url = '/api/news/create';
+                url = '/create';
                 type = 'post';
                 console.log(frmValue)
                create(url, type, frmValue);
             } else if (frmStatus == "edit") {
-                url += '/api/news/create';
+                url += '/update';
                 type = 'post';
                 update(url, type, frmValue)
             } else {
-                url += '/api/news/delete';
+                url += '/delete';
                 type = 'post';
                 destroy(url, type, frmValue);
             }
