@@ -4,12 +4,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.DotNet.Scaffolding.Shared.Messaging;
 using Microsoft.EntityFrameworkCore;
-using NuGet.Protocol.Plugins;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Web;
+
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using Microsoft.AspNetCore.Http;
 
@@ -52,10 +48,11 @@ namespace CRUD_NEWS.Controllers
  
         [HttpPost]
         [Route("/api/news/create")]
-        public async Task<IActionResult> Create([FromBody] NewsModel news)
+        public async Task<IActionResult> Create([FromBody] NewsModel news, HttpPostedFileBase file)
         {
             try
             {
+                Console.WriteLine(news);
                 if (news == null)
                 {
                     return BadRequest("News item is null.");
